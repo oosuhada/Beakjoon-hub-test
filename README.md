@@ -38,3 +38,7 @@ Solutions are synchronized with [BaekjoonHub](https://github.com/BaekjoonHub/Bae
 이 저장소는 완성된 애플리케이션 포트폴리오가 아니라 꾸준한 문제 해결 연습과 학습 과정을 보여주는 기록용 저장소입니다.
 
 This is a study log rather than a product portfolio project; the value is in the accumulated problem-solving history and iteration trail.
+
+## Topics
+
+[`algorithms`](https://github.com/topics/algorithms) · [`baekjoonhub`](https://github.com/topics/baekjoonhub) · [`coding-test`](https://github.com/topics/coding-test) · [`problem-solving`](https://github.com/topics/problem-solving) · [`programmers`](https://github.com/topics/programmers) · [`python`](https://github.com/topics/python) · [`study-log`](https://github.com/topics/study-log)
